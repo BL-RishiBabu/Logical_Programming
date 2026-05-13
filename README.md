@@ -18,12 +18,6 @@ A program to determine if a number is prime. It identifies numbers greater than 
 
 Note: 2 is the only even prime number.
 
-### 3. Prime Number
-
-A program to determine if a number is prime. It identifies numbers greater than 1 that have no positive divisors other than 1 and themselves.
-
-Note: 2 is the only even prime number.
-
 ### 4. Reverse a Number
 
 Implements logic to reverse an integer using a loop (while or for) and arithmetic operators.
